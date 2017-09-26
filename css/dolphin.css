@@ -22,7 +22,6 @@ html {
   #dolphin {
     position:fixed;
     top: 0px;
-    transform: rotateX(10deg);
   }
 }
 /* Write your solution here */
