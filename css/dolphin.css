@@ -22,7 +22,7 @@ html {
   #dolphin {
     position:absolute;
     top: 0px;
-    transform: rotate(0.5turn);
+    transform: translateX(10px) rotate(10deg) translateY(5px);
   }
 }
 /* Write your solution here */
